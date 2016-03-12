@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 bonjour, je suis Yuhao ZHANG. 
 pour l'instant, troisi¨¨me change 
+=======
+>>>>>>> parent of b05634f... first pharse
